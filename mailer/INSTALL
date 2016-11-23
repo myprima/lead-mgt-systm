@@ -1,0 +1,34 @@
+Below are the steps to install E-tools.  Please follow the steps below
+and contact support if you have any problems.
+
+Step 1. Unpack the archive
+
+Unix command
+tar zxvf omnisupport.tar.gz
+OR
+Winzip
+If you do not have access to tar, then you can use winzip. However,
+if you use winzip then make sure before you unzip the program you go
+to Option / Configuration / Miscellaneous and undo the option for
+"Tar file smart CR / LF conversion"
+
+Step 2. Change Permissions
+cd myetools
+chmod 666 lib/etools2.php
+
+Step 3. Go to www.yourdomain.com/myetools/install.php
+
+Fill out the form and hit submit
+				    
+Step 4. Change the permissions to make the software secure.
+cd myetools
+chmod 644 lib/etools.php
+
+Step 5. Move ioncube
+Move the ioncube folder to the root of where you have installed the
+program. For example, if you have a public_html directory, then the
+ioncube directory should be in this directory.
+
+cd myetools
+mv ioncube (location of your root directory)
+	    

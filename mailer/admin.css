@@ -1,0 +1,82 @@
+body,td,th {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 11px;color: #666666;}
+body {background-color: #cccccc;margin-left: 0px;margin-top: 0px;margin-right: 0px;margin-bottom: 0px;}
+a:link {color: #666666;text-decoration: none;}
+a:visited {text-decoration: none;color: #666666;}
+a:hover {text-decoration: underline;color: #5F8AB6;}
+a:active {text-decoration: none;color: #666666;}
+
+.Arial11Blue {font-family: Arial, Helvetica, sans-serif;font-size: 11px;color: #5F8AB6;font-weight: bold;}
+.Arial11Blue a:link {color: #5F8AB6;text-decoration: none;}
+.Arial11Blue a:visited {text-decoration: none;color: #5F8AB6;}
+.Arial11Blue a:hover {text-decoration: underline;color: #666666;}
+.Arial11Blue a:active {text-decoration: none;color: #5F8AB6;}
+
+
+.Verdana11Blue {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 11px;color: #5F8AB6;font-weight: bold;}
+.Verdana11Blue a:link {color: #5F8AB6;text-decoration: none;}
+.Verdana11Blue a:visited {text-decoration: none;color: #5F8AB6;}
+.Verdana11Blue a:hover {text-decoration: underline;color: #666666;}
+.Verdana11Blue a:active {text-decoration: none;color: #5F8AB6;}
+
+.footer {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 11px;color: #666666;}
+.footer a:link {color: #666666;text-decoration: underline;}
+.footer a:visited {text-decoration: underline;color: #666666;}
+.footer a:hover {text-decoration: underline;color: #5F8AB6;}
+.footer a:active {text-decoration: underline;color: #666666;}
+
+
+
+.bodyCell {background-image: url(admin/images/body_bg.jpg);border: 1px solid #CCCCCC;padding: 3px;}
+
+.mainCell {border: 1px solid #CCCCCC;background-color: #FFFFFF;padding: 1px;}
+
+.innerCell {border: 1px solid #CCCCCC;background-color: #FFFFFF;padding: 10px;}
+
+.boxTitleCell {border: 1px solid #CCCCCC;}
+
+.PageTitle {font-family: Arial, Helvetica, sans-serif;font-size: 13px;color: #5F8AB6;font-weight: bold;}
+
+.InnerTitle {font-family: Arial, Helvetica, sans-serif;font-size: 12px;color: #5F8AB6;font-weight: bold;}
+
+.Arial12Blue {font-family: Arial, Helvetica, sans-serif;font-size: 12px;color: #5F8AB6;font-weight: bold;}
+.Arial12Blue a:link {color: #5F8AB6;text-decoration: none;}
+.Arial12Blue a:visited {text-decoration: none;color: #5F8AB6;}
+.Arial12Blue a:hover {text-decoration: underline;color: #666666;}
+.Arial12Blue a:active {text-decoration: none;color: #5F8AB6;}
+
+.Arial1LBlue {font-family: Arial, Helvetica, sans-serif;font-size: 12px;color: #5F8AB6;}
+.Arial1LBlue a:link {color: #5F8AB6;text-decoration: none;}
+.Arial1LBlue a:visited {text-decoration: none;color: #5F8AB6;}
+.Arial1LBlue a:hover {text-decoration: underline;color: #666666;}
+.Arial1LBlue a:active {text-decoration: none;color: #5F8AB6;}
+
+.Arial12Grey {font-family: Arial, Helvetica, sans-serif;font-size: 12px;color: #666666;}
+.Arial12Grey a:link {color: #666666;text-decoration: none;}
+.Arial12Grey a:visited {text-decoration: none;color: #666666;}
+.Arial12Grey a:hover {text-decoration: underline;color: #5F8AB6;}
+.Arial12Grey a:active {text-decoration: none;color: #666666;}
+
+.Arial12White {font-family: Arial, Helvetica, sans-serif;font-size: 12px;color: #ffffff;font-weight: bold;}
+
+
+input {font-family: Arial, Helvetica, sans-serif;font-size: 11px;color: #333333;}
+
+select {font-family: Arial, Helvetica, sans-serif;font-size: 11px;color: #333333;}
+
+textarea {font-family: Arial, Helvetica, sans-serif;font-size: 11px;color: #333333;}
+
+.Arial11Grey {font-family: Arial, Helvetica, sans-serif;font-size: 11px;color: #666666;}
+
+select.CE {font-family: Arial, Helvetica, sans-serif;font-size: 11px;color: #333333;width:100px;}
+input.CE {font-family: Arial, Helvetica, sans-serif;font-size: 11px;color: #333333;width:100px;}
+textarea.CE {font-family: Arial, Helvetica, sans-serif;font-size: 11px;color: #333333;width:100px;}
+
+select.Year {font-family: Arial, Helvetica, sans-serif;font-size: 11px;color: #333333;width:60px;}
+
+
+
+.UnderlinedPageLink {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 11px;color: #666666;}
+.UnderlinedPageLink a:link {color: #666666;text-decoration: underline;}
+.UnderlinedPageLink a:visited {color: #666666;text-decoration: underline;}
+.UnderlinedPageLink a:hover {color: #5F8AB6;text-decoration: underline;}
+.UnderlinedPageLink a:active {color: #666666;text-decoration: underline;}

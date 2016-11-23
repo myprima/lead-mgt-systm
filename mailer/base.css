@@ -1,0 +1,174 @@
+body { color: black; font-size: 10pt; font-family: Helvetica, Arial; background-color: white }
+a:link { color: #000088; } 
+a:visited { color: #0000aa; }
+table { border: 0; cellpaging:0; cellspacing=0;}
+th { background-color: #aaaaff; color: black; font-size: 10pt; font-family: Helvetica, Arial; }
+td { color: black; font-size: 10pt; font-family: Helvetica, Arial; }
+h1 { font-size: 18pt; }
+h2 { font-size: 16pt; }
+
+A {
+	TEXT-DECORATION: none
+}
+FORM {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px
+}
+.smalltxt {
+	FONT-SIZE: 11px; FONT-FAMILY: "arial"
+}
+.minitxt {
+	FONT-SIZE: 10px; FONT-FAMILY: "arial"
+}
+.basetxt {
+	FONT-SIZE: 12px; FONT-FAMILY: "arial"
+}
+.input {
+	BORDER-RIGHT: black 1px solid; BORDER-TOP: black 1px solid; FONT-SIZE: 12px; BORDER-LEFT: black 1px solid; COLOR: black; BORDER-BOTTOM: black 1px solid; FONT-FAMILY: "arial"; BACKGROUND-COLOR: #ffffff
+}
+.select {
+	BORDER-RIGHT: black 1px solid; BORDER-TOP: black 1px solid; FONT-SIZE: 12px; BORDER-LEFT: black 1px solid; COLOR: black; BORDER-BOTTOM: black 1px solid; FONT-FAMILY: "arial"; BACKGROUND-COLOR: #ffffff
+}
+.checkbox {
+	BORDER-RIGHT: black 0px solid; BORDER-TOP: black 0px solid; FONT-SIZE: 12px; BORDER-LEFT: black 0px solid; COLOR: black; BORDER-BOTTOM: black 0px solid; FONT-FAMILY: "arial"
+}
+.radio {
+	BORDER-RIGHT: black 0px solid; BORDER-TOP: black 0px solid; FONT-SIZE: 10px; BORDER-LEFT: black 0px solid; COLOR: black; BORDER-BOTTOM: black 0px solid; FONT-FAMILY: "arial"
+}
+.button {
+	BORDER-RIGHT: black 1px solid; BORDER-TOP: black 1px solid; FONT-SIZE: 12px; BORDER-LEFT: black 1px solid; COLOR: black; BORDER-BOTTOM: black 1px solid; FONT-FAMILY: "arial"; BACKGROUND-COLOR: #ffffff
+}
+.textarea {
+	BORDER-RIGHT: black 1px solid; BORDER-TOP: black 1px solid; FONT-SIZE: 12px; BORDER-LEFT: black 1px solid; COLOR: black; BORDER-BOTTOM: black 1px solid; FONT-FAMILY: "arial"; BACKGROUND-COLOR: #ffffff
+}
+.firstalt {
+	BACKGROUND: #ffffff
+}
+.secondalt {
+	BACKGROUND: #f4f4f4
+}
+.headerText {
+	FONT-WEIGHT: bold; VERTICAL-ALIGN: middle; COLOR: #3b6597
+}
+.timecolor {
+	COLOR: #42517a
+}
+.smallfont {
+	FONT-SIZE: 10px; FONT-FAMILY: Verdana, sans-serif
+}
+.smallfonttablehead {
+	FONT-SIZE: 10px; COLOR: #447892; FONT-FAMILY: Verdana, sans-serif; TEXT-DECORATION: none
+}
+.normalfont {
+	FONT-SIZE: 12px; FONT-FAMILY: Verdana, sans-serif
+}
+.normalfonttablehead {
+	FONT-SIZE: 12px; COLOR: #447892; FONT-FAMILY: Verdana, sans-serif; TEXT-DECORATION: none
+}
+.important {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: red; FONT-FAMILY: Verdana, sans-serif
+}
+SELECT {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; BACKGROUND: #e1e4e5; COLOR: #000000; FONT-FAMILY: Verdana, sans-serif
+}
+TEXTAREA {
+	BORDER-TOP-WIDTH: 1px; FONT-WEIGHT: normal; BORDER-LEFT-WIDTH: 1px; FONT-SIZE: 12px; BACKGROUND: #e1e4e5; BORDER-BOTTOM-WIDTH: 1px; COLOR: #000000; FONT-FAMILY: Verdana, sans-serif; BORDER-RIGHT-WIDTH: 1px
+}
+.bginput {
+	BORDER-TOP-WIDTH: 1px; FONT-WEIGHT: normal; BORDER-LEFT-WIDTH: 1px; FONT-SIZE: 12px; BACKGROUND: #e1e4e5; BORDER-BOTTOM-WIDTH: 1px; COLOR: #000000; FONT-FAMILY: Verdana, sans-serif; BORDER-RIGHT-WIDTH: 1px
+}
+.normalInactive {
+	BORDER-RIGHT: #ffffff 1px solid; BORDER-TOP: #ffffff 1px solid; FONT-WEIGHT: normal; FONT-SIZE: 12px; BACKGROUND: #ffffff; BORDER-LEFT: #ffffff 1px solid; COLOR: #000000; BORDER-BOTTOM: #ffffff 1px solid; FONT-FAMILY: Verdana, sans-serif
+}
+.highInactive {
+	BORDER-RIGHT: #f4f4f4 1px solid; BORDER-TOP: #f4f4f4 1px solid; FONT-WEIGHT: normal; FONT-SIZE: 12px; BACKGROUND: #f4f4f4; BORDER-LEFT: #f4f4f4 1px solid; COLOR: #000000; BORDER-BOTTOM: #f4f4f4 1px solid; FONT-FAMILY: Verdana, sans-serif
+}
+A:link {
+	COLOR: #000020
+}
+A:visited {
+	COLOR: #000020
+}
+A:active {
+	COLOR: #000020
+}
+A:hover {
+	COLOR: #999999
+}
+.headerLink {
+	FONT-SIZE: 12px; COLOR: #daebfa; FONT-FAMILY: Verdana, sans-serif; TEXT-DECORATION: none
+}
+.footerLink {
+	FONT-SIZE: 11px; MARGIN-LEFT: 1%; COLOR: #142f8a; MARGIN-RIGHT: 1%; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+.folderLink {
+	FONT-SIZE: 11px; FONT-FAMILY: Verdana, sans-serif; TEXT-DECORATION: none
+}
+.normalTable {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; FONT: 11px Verdana, sans-serif; BORDER-RIGHT-WIDTH: 0px
+}
+.normalRow {
+	BACKGROUND-COLOR: #ffffff
+}
+.highRow {
+	BACKGROUND-COLOR: #f4f4f4
+}
+.headerRow {
+	BACKGROUND: url(images/tableheadbg.gif) #e9f3f8; HEIGHT: 23px
+}
+.normalCell {
+	BORDER-RIGHT: #e1e1e1 0px solid; BORDER-TOP: #e1e1e1 0px solid; BORDER-LEFT: #e1e1e1 0px solid; BORDER-BOTTOM: #e1e1e1 1px solid
+}
+.normalLeftCell {
+	BORDER-RIGHT: #e1e1e1 0px solid; BORDER-TOP: #e1e1e1 0px solid; BORDER-LEFT: #e1e1e1 1px solid; BORDER-BOTTOM: #e1e1e1 1px solid
+}
+.normalRightCell {
+	BORDER-RIGHT: #e1e1e1 1px solid; BORDER-TOP: #e1e1e1 0px solid; BORDER-LEFT: #e1e1e1 0px solid; BORDER-BOTTOM: #e1e1e1 1px solid
+}
+.normalBothCell {
+	BORDER-RIGHT: #e1e1e1 1px solid; BORDER-TOP: #e1e1e1 0px solid; BORDER-LEFT: #e1e1e1 1px solid; BORDER-BOTTOM: #e1e1e1 1px solid
+}
+.highCell {
+	BORDER-RIGHT: #e1e1e1 0px solid; BORDER-TOP: #e1e1e1 0px solid; BORDER-LEFT: #e1e1e1 0px solid; BORDER-BOTTOM: #e1e1e1 1px solid; BACKGROUND-COLOR: #f4f4f4
+}
+.highLeftCell {
+	BORDER-RIGHT: #e1e1e1 0px solid; BORDER-TOP: #e1e1e1 0px solid; BORDER-LEFT: #e1e1e1 1px solid; BORDER-BOTTOM: #e1e1e1 1px solid; BACKGROUND-COLOR: #f4f4f4
+}
+.highRightCell {
+	BORDER-RIGHT: #e1e1e1 1px solid; BORDER-TOP: #e1e1e1 0px solid; BORDER-LEFT: #e1e1e1 0px solid; BORDER-BOTTOM: #e1e1e1 1px solid; BACKGROUND-COLOR: #f4f4f4
+}
+.highBothCell {
+	BORDER-RIGHT: #e1e1e1 1px solid; BORDER-TOP: #e1e1e1 0px solid; BORDER-LEFT: #e1e1e1 1px solid; BORDER-BOTTOM: #e1e1e1 1px solid; BACKGROUND-COLOR: #f4f4f4
+}
+.highBothCell2 {
+	BORDER-RIGHT: #e1e1e1 1px solid; BORDER-TOP: #e1e1e1 0px solid; BORDER-LEFT: #e1e1e1 1px solid; BORDER-BOTTOM: #e1e1e1 1px solid; BACKGROUND-COLOR: #ffffff
+}
+.headerCell {
+	BORDER-RIGHT: #80b4db 0px solid; PADDING-RIGHT: 0px; BORDER-TOP: #80b4db 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; BORDER-LEFT: #80b4db 0px solid; PADDING-TOP: 0px; BORDER-BOTTOM: #80b4db 1px solid
+}
+TH A {
+	TEXT-DECORATION: none
+}
+.headerLeftCell {
+	BORDER-RIGHT: #80b4db 0px solid; PADDING-RIGHT: 0px; BORDER-TOP: #80b4db 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; BORDER-LEFT: #80b4db 1px solid; PADDING-TOP: 0px; BORDER-BOTTOM: #80b4db 1px solid
+}
+.headerRightCell {
+	BORDER-RIGHT: #80b4db 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #80b4db 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; BORDER-LEFT: #80b4db 0px solid; PADDING-TOP: 0px; BORDER-BOTTOM: #80b4db 1px solid
+}
+.headerBothCell {
+	BORDER-RIGHT: #80b4db 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #80b4db 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; BORDER-LEFT: #80b4db 1px solid; PADDING-TOP: 0px; BORDER-BOTTOM: #80b4db 1px solid
+}
+.btableHead td{
+	padding: 0 3 0 3;
+	border: 1px solid silver;
+}
+.btableRow td{
+	padding: 0 3 0 3;
+	border: 1px solid silver;
+	border-top: 0;	
+}
+.btableHead1{
+	border-top:1px solid silver;
+}
+pre{
+	margin: 0;
+}
